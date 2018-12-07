@@ -1,2 +1,3 @@
 # gifs
-The move. They're funny. They're protected under DMCA.
+
+They move. They're funny. They're protected under DMCA.
